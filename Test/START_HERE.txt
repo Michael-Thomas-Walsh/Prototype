@@ -1,0 +1,26 @@
+FUSION BIM INTELLIGENCE v0.17 — FULL PLATFORM UPDATE FOR EXISTING INSTALLATIONS
+
+IMPORTANT: This download is an updater for your existing full platform; it does
+NOT contain missing original viewer/models/mesh assets. It will refuse to alter
+an incomplete base installation.
+
+1. Extract this ZIP to a temporary folder, OUTSIDE your existing project.
+2. Right-click INSTALL_UPDATE.ps1 > Run with PowerShell, or open PowerShell
+   in the extracted folder and run:
+     powershell -ExecutionPolicy Bypass -File .\INSTALL_UPDATE.ps1
+   Default target: D:\Fusion_Prototype\fusion_bim_platform
+3. Open PowerShell in D:\Fusion_Prototype\fusion_bim_platform and run:
+     powershell -ExecutionPolicy Bypass -File .\LAUNCH_FUSION.ps1
+4. Full dashboard: http://127.0.0.1:5173/
+
+For explicit labelled demo approvals only, use:
+     powershell -ExecutionPolicy Bypass -File .\LAUNCH_FUSION.ps1 -DemoApprovals
+
+The installer creates a timestamped backup of any replaced source files. It
+preserves existing JSON model data, GLBs, geometry, SQLite databases and old
+modules. The launcher starts backend.app (FULL API) and frontend (FULL React
+UI); it does NOT start the standalone decision_app or workbench.
+
+If the original full project is incomplete or has diverged, the update may need
+manual reconciliation. This bundle cannot reconstruct the missing source files.
+Neo4j is optional, NOT started; SQLite graph snapshots function without it.

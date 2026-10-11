@@ -1,0 +1,22 @@
+{
+  "status": "BROAD_PHASE_ONLY_NOT_CONFIRMED_CLASHES",
+  "note": "Boxes need transform validation against Revit/Speckle; overlaps include penetrations and intentional contact.",
+  "input_boxes": 11411,
+  "excluded": {
+    "nonphysical_or_out_of_scope": 10106,
+    "thin_or_degenerate_box": 4
+  },
+  "x_overlap_pairs_checked": 6049570,
+  "candidate_pairs_total": 4054919,
+  "candidate_rows_written": 100000,
+  "truncated": true,
+  "candidate_pairs_by_disciplines": {
+    "Plumbing vs Architecture": 88666,
+    "Plumbing vs Structural": 2727550,
+    "HVAC vs Architecture": 33556,
+    "Electrical vs Architecture": 6655,
+    "Electrical vs Structural": 191298,
+    "HVAC vs Structural": 1007194
+  },
+  "minimum_overlap_ft_per_axis": 0.01
+}

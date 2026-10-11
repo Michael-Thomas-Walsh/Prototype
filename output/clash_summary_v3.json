@@ -1,0 +1,23 @@
+{
+  "status": "UNCONFIRMED_BROAD_PHASE_ONLY",
+  "input_file": "output\\geometry_bounds_world.csv",
+  "coordinate_units": "m",
+  "selected_physical_boxes": 13003,
+  "excluded": {
+    "nonphysical_or_out_of_scope": 8518
+  },
+  "x_axis_pairs_checked": 1644506,
+  "candidate_pairs_total": 10298,
+  "candidate_pairs_by_disciplines": {
+    "Electrical vs Architecture": 1967,
+    "HVAC vs Architecture": 1533,
+    "Electrical vs Structural": 72,
+    "Plumbing vs Architecture": 6423,
+    "Plumbing vs Structural": 121,
+    "HVAC vs Structural": 182
+  },
+  "candidate_rows_written": 10000,
+  "csv_is_top_by_overlap_volume_not_complete": true,
+  "minimum_overlap_per_axis_m": 0.01,
+  "caution": "World transforms and federation coordinates require Revit validation. AABB intersections are NOT confirmed collisions. Ranking by overlapping box volume is only a rough diagnostic."
+}

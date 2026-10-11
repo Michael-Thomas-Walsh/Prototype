@@ -1,0 +1,170 @@
+{
+  "project_id": "0f3cb45af1",
+  "model_id": "ee03c40d73",
+  "version_id": "cb0188d0ef",
+  "units": "ft",
+  "total_objects": 23966,
+  "bounding_boxes": 21521,
+  "geometry_pieces": 30052,
+  "geometry_types": {
+    "line": 3250,
+    "mesh": 25904,
+    "arc": 898
+  },
+  "unknown_relation_ids": [
+    30
+  ],
+  "sample_errors": [
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d1e",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d1f",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d20",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d21",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d22",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d23",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d24",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d25",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d26",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "434b4aa7-f200-460c-b3bb-afb56c30ead0-00090d27",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed520",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed520",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed521",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed521",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed51c",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed51c",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed51d",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed51d",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed558",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed558",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed559",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed559",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed554",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed554",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed555",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed555",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed550",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed550",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed551",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    },
+    {
+      "application_id": "8f0fd2d4-04b4-4834-ba6b-d7f4911b5d8c-001ed551",
+      "geometry_type": "line",
+      "error": "Expected a MESH blob, got LINE."
+    }
+  ],
+  "caution": "Axis-aligned candidate bounds only, not verified clashes. Confirm placement and coordinate transformations against Speckle/Revit before spatial analysis."
+}

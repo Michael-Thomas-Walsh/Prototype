@@ -1,0 +1,114 @@
+{
+  "project": "Fusion circulation demonstration",
+  "revision": "DEMO-SPATIAL-01",
+  "provenance": "synthetic",
+  "distance_basis": "synthetic",
+  "spaces": [
+    {
+      "id": "LAB",
+      "name": "Laboratory",
+      "xyz": [
+        0,
+        0,
+        0
+      ],
+      "occupants": 12
+    },
+    {
+      "id": "HALL",
+      "name": "Main corridor",
+      "xyz": [
+        10,
+        0,
+        0
+      ],
+      "occupants": 4
+    },
+    {
+      "id": "LOBBY",
+      "name": "Accessible lobby",
+      "xyz": [
+        10,
+        10,
+        0
+      ],
+      "occupants": 2
+    },
+    {
+      "id": "EXIT-A",
+      "name": "West exit",
+      "xyz": [
+        20,
+        0,
+        0
+      ],
+      "exit": true
+    },
+    {
+      "id": "EXIT-B",
+      "name": "South exit",
+      "xyz": [
+        20,
+        10,
+        0
+      ],
+      "exit": true
+    }
+  ],
+  "portals": [
+    {
+      "id": "D-001",
+      "source": "LAB",
+      "target": "HALL",
+      "distance_m": 10,
+      "width_m": 1.2,
+      "accessible": true,
+      "element_id": "DEMO-DOOR-001"
+    },
+    {
+      "id": "D-002",
+      "source": "HALL",
+      "target": "EXIT-A",
+      "distance_m": 10,
+      "width_m": 1.1,
+      "accessible": true
+    },
+    {
+      "id": "D-003",
+      "source": "LAB",
+      "target": "LOBBY",
+      "distance_m": 18,
+      "width_m": 0.75,
+      "accessible": false
+    },
+    {
+      "id": "D-004",
+      "source": "HALL",
+      "target": "LOBBY",
+      "distance_m": 10,
+      "width_m": 1.2,
+      "accessible": true
+    },
+    {
+      "id": "D-005",
+      "source": "LOBBY",
+      "target": "EXIT-B",
+      "distance_m": 10,
+      "width_m": 1.2,
+      "accessible": true
+    }
+  ],
+  "journeys": [
+    {
+      "id": "Staff to west exit",
+      "origin": "LAB",
+      "destination": "EXIT-A"
+    },
+    {
+      "id": "Accessible route south",
+      "origin": "LAB",
+      "destination": "EXIT-B",
+      "profile": "accessible"
+    }
+  ]
+}

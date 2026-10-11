@@ -1,0 +1,10 @@
+{
+  "model_id": "ee03c40d73",
+  "version_id": "cb0188d0ef",
+  "total_elements": 23966,
+  "issue_count": 5,
+  "by_rule": {
+    "SHEET_NUMBER_COLLISION": 5
+  },
+  "note": "Flags are potential metadata review items, not confirmed defects."
+}

@@ -1,0 +1,63 @@
+{
+  "input_file": "output\\geometry_bounds.csv",
+  "coordinate_unit": "ft",
+  "warning": "Diagnostic only. Coordinate frame not validated; no spatial clashes can be confirmed.",
+  "sources": {
+    "Fusion BIM_revit": {
+      "count": 8578,
+      "unique_boxes": 5360,
+      "objects_in_repeated_box_groups": 3648,
+      "percent_in_repeated_box_groups": 42.5,
+      "boxes_centered_within_1ft_of_origin": 678,
+      "top_repetition_count": 168
+    },
+    "Snowdon Towers Sample Electrical": {
+      "count": 2188,
+      "unique_boxes": 686,
+      "objects_in_repeated_box_groups": 1542,
+      "percent_in_repeated_box_groups": 70.5,
+      "boxes_centered_within_1ft_of_origin": 1303,
+      "top_repetition_count": 718
+    },
+    "Snowdon Towers Sample Facades": {
+      "count": 317,
+      "unique_boxes": 149,
+      "objects_in_repeated_box_groups": 207,
+      "percent_in_repeated_box_groups": 65.3,
+      "boxes_centered_within_1ft_of_origin": 78,
+      "top_repetition_count": 22
+    },
+    "Snowdon Towers Sample HVAC": {
+      "count": 2694,
+      "unique_boxes": 1243,
+      "objects_in_repeated_box_groups": 1510,
+      "percent_in_repeated_box_groups": 56.1,
+      "boxes_centered_within_1ft_of_origin": 1543,
+      "top_repetition_count": 404
+    },
+    "Snowdon Towers Sample Plumbing": {
+      "count": 6443,
+      "unique_boxes": 3465,
+      "objects_in_repeated_box_groups": 3089,
+      "percent_in_repeated_box_groups": 47.9,
+      "boxes_centered_within_1ft_of_origin": 3027,
+      "top_repetition_count": 894
+    },
+    "Snowdon Towers Sample Site": {
+      "count": 80,
+      "unique_boxes": 40,
+      "objects_in_repeated_box_groups": 42,
+      "percent_in_repeated_box_groups": 52.5,
+      "boxes_centered_within_1ft_of_origin": 0,
+      "top_repetition_count": 29
+    },
+    "Snowdon Towers Sample Structural": {
+      "count": 1221,
+      "unique_boxes": 397,
+      "objects_in_repeated_box_groups": 960,
+      "percent_in_repeated_box_groups": 78.6,
+      "boxes_centered_within_1ft_of_origin": 989,
+      "top_repetition_count": 103
+    }
+  }
+}

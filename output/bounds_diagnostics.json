@@ -1,0 +1,235 @@
+{
+  "status": "DIAGNOSTIC_ONLY_NOT_CLASHES",
+  "units_input": "ft",
+  "total_bounds": 21521,
+  "invalid_bounds": 0,
+  "by_source": {
+    "Fusion BIM_revit": {
+      "count": 8578,
+      "longest_dimension_m": {
+        "min": 0.127,
+        "median": 2.184,
+        "p95": 9.887,
+        "p99": 22.784,
+        "max": 54.637
+      },
+      "box_volume_m3": {
+        "min": 0.0,
+        "median": 0.01,
+        "p95": 8.894,
+        "p99": 349.346,
+        "max": 3491.303
+      },
+      "over_50m": 9,
+      "over_100m": 0,
+      "over_500m": 0
+    },
+    "Snowdon Towers Sample Electrical": {
+      "count": 2188,
+      "longest_dimension_m": {
+        "min": 0.025,
+        "median": 0.252,
+        "p95": 5.283,
+        "p99": 26.735,
+        "max": 53.488
+      },
+      "box_volume_m3": {
+        "min": 0.0,
+        "median": 0.0,
+        "p95": 0.409,
+        "p99": 415.615,
+        "max": 4335.035
+      },
+      "over_50m": 1,
+      "over_100m": 0,
+      "over_500m": 0
+    },
+    "Snowdon Towers Sample Facades": {
+      "count": 317,
+      "longest_dimension_m": {
+        "min": 0.317,
+        "median": 2.299,
+        "p95": 16.199,
+        "p99": 20.401,
+        "max": 21.656
+      },
+      "box_volume_m3": {
+        "min": 0.008,
+        "median": 0.359,
+        "p95": 67.205,
+        "p99": 374.508,
+        "max": 1521.401
+      },
+      "over_50m": 0,
+      "over_100m": 0,
+      "over_500m": 0
+    },
+    "Snowdon Towers Sample HVAC": {
+      "count": 2694,
+      "longest_dimension_m": {
+        "min": 0.1,
+        "median": 0.305,
+        "p95": 3.665,
+        "p99": 11.182,
+        "max": 53.488
+      },
+      "box_volume_m3": {
+        "min": 0.0,
+        "median": 0.006,
+        "p95": 0.259,
+        "p99": 349.346,
+        "max": 4524.147
+      },
+      "over_50m": 1,
+      "over_100m": 0,
+      "over_500m": 0
+    },
+    "Snowdon Towers Sample Plumbing": {
+      "count": 6443,
+      "longest_dimension_m": {
+        "min": 0.016,
+        "median": 0.128,
+        "p95": 2.734,
+        "p99": 11.81,
+        "max": 53.488
+      },
+      "box_volume_m3": {
+        "min": 0.0,
+        "median": 0.0,
+        "p95": 0.042,
+        "p99": 0.242,
+        "max": 3840.433
+      },
+      "over_50m": 1,
+      "over_100m": 0,
+      "over_500m": 0
+    },
+    "Snowdon Towers Sample Site": {
+      "count": 80,
+      "longest_dimension_m": {
+        "min": 2.726,
+        "median": 5.486,
+        "p95": 43.631,
+        "p99": 146.304,
+        "max": 146.304
+      },
+      "box_volume_m3": {
+        "min": 0.002,
+        "median": 0.002,
+        "p95": 11676.027,
+        "p99": 36561.808,
+        "max": 503619.831
+      },
+      "over_50m": 4,
+      "over_100m": 2,
+      "over_500m": 0
+    },
+    "Snowdon Towers Sample Structural": {
+      "count": 1221,
+      "longest_dimension_m": {
+        "min": 0.152,
+        "median": 5.093,
+        "p95": 17.78,
+        "p99": 23.393,
+        "max": 54.705
+      },
+      "box_volume_m3": {
+        "min": 0.0,
+        "median": 0.201,
+        "p95": 11.75,
+        "p99": 100.473,
+        "max": 437.363
+      },
+      "over_50m": 2,
+      "over_100m": 0,
+      "over_500m": 0
+    }
+  },
+  "top_10_largest_boxes": [
+    {
+      "application_id": "f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6a_t8aa9360919bf1aa7",
+      "name": "Toposolid - Grassland",
+      "source": "Snowdon Towers Sample Site",
+      "category": "Snowdon Towers Sample Site / L2 / Toposolid / Toposolid",
+      "longest_dimension_m": 146.304,
+      "box_volume_m3": 503619.831
+    },
+    {
+      "application_id": "865967e1-f477-446d-9386-b92d7ec2043e-001427bc_t8aa9360919bf1aa7",
+      "name": "Toposolid - Water",
+      "source": "Snowdon Towers Sample Site",
+      "category": "Snowdon Towers Sample Site / L1 - Block 43 / Toposolid / Toposolid",
+      "longest_dimension_m": 146.304,
+      "box_volume_m3": 36561.808
+    },
+    {
+      "application_id": "45c5149b-954d-4f07-a607-3ded0212d121-00121e81_t8aa9360919bf1aa7",
+      "name": "Site - Block 56",
+      "source": "Snowdon Towers Sample Site",
+      "category": "Snowdon Towers Sample Site / L1 - Block 43 / Site / Block 56",
+      "longest_dimension_m": 54.895,
+      "box_volume_m3": 26824.926
+    },
+    {
+      "application_id": "d9797366-9102-411d-9c23-67cada0d591d-0011624b_t8aa9360919bf1aa7",
+      "name": "Site - Union Station",
+      "source": "Snowdon Towers Sample Site",
+      "category": "Snowdon Towers Sample Site / L1 - Block 43 / Site / Union Station",
+      "longest_dimension_m": 43.631,
+      "box_volume_m3": 24156.267
+    },
+    {
+      "application_id": "17304b3f-0e31-4bcd-9a40-84617b498cba-00120b84_t8aa9360919bf1aa7",
+      "name": "Site - Block 50",
+      "source": "Snowdon Towers Sample Site",
+      "category": "Snowdon Towers Sample Site / L1 - Block 43 / Site / Block 50",
+      "longest_dimension_m": 32.004,
+      "box_volume_m3": 11676.027
+    },
+    {
+      "application_id": "420906ce-d4aa-41a4-87bf-8c4cc7b6dbb1-0016c780_t4925bcdc59d0fc5c",
+      "name": "Spaces - Parking Garage P01",
+      "source": "Snowdon Towers Sample HVAC",
+      "category": "Snowdon Towers Sample HVAC / Parking / Spaces / none",
+      "longest_dimension_m": 53.488,
+      "box_volume_m3": 4524.147
+    },
+    {
+      "application_id": "d566bb2b-0a9b-48f3-8a14-0f74bc425aef-001539f5_t94a8100799c7f8e7",
+      "name": "Spaces - Parking Garage P01",
+      "source": "Snowdon Towers Sample Electrical",
+      "category": "Snowdon Towers Sample Electrical / Parking / Spaces / none",
+      "longest_dimension_m": 53.488,
+      "box_volume_m3": 4335.035
+    },
+    {
+      "application_id": "2f7c7dc1-a069-426c-bba1-6511ded3c37a-00174428_t41521f9bb6e85c2c",
+      "name": "Spaces - Parking Garage P01",
+      "source": "Snowdon Towers Sample Plumbing",
+      "category": "Snowdon Towers Sample Plumbing / Parking / Spaces / none",
+      "longest_dimension_m": 53.488,
+      "box_volume_m3": 3840.433
+    },
+    {
+      "application_id": "1561a926-8e7c-4298-8c55-93ffc3bf3d12-00121390_t8aa9360919bf1aa7",
+      "name": "Site - Block 62",
+      "source": "Snowdon Towers Sample Site",
+      "category": "Snowdon Towers Sample Site / L1 - Block 43 / Site / Block 62",
+      "longest_dimension_m": 16.231,
+      "box_volume_m3": 3726.046
+    },
+    {
+      "application_id": "bbb19349-04db-4d1e-886a-6de27dc8e3fa-000cadd8",
+      "name": "Rooms - Parking Garage P01",
+      "source": "Fusion BIM_revit",
+      "category": "Fusion BIM_revit / Parking / Rooms / none",
+      "longest_dimension_m": 53.488,
+      "box_volume_m3": 3491.303
+    }
+  ],
+  "notes": [
+    "AABBs may be inflated for rotated/curved elements or compound geometry.",
+    "Validate coordinate frames and instance transforms before exact clash checks.",
+    "Large dimensions alone are not proof of an invalid bounding box."
+  ]
+}

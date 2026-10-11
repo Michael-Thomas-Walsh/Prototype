@@ -1,0 +1,1 @@
+V0.7: Coordination pair isolate renders actual Speckle GLB meshes (requires meshMode and cached chunks), bbox as faint guides, click blank to exit, selected pair camera fit, top-right controls, Revit vs illustrative Mark/Type Mark/NBS-style reference. Data uses uploaded real model metadata. Synthetic specs are NOT approved NBS assignments.

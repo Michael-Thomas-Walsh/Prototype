@@ -1,0 +1,143 @@
+{
+  "status": "READY",
+  "source": "Speckle bundle",
+  "projectId": "0f3cb45af1",
+  "modelId": "ee03c40d73",
+  "versionId": "cb0188d0ef",
+  "chunks": [
+    {
+      "url": "/data/meshes/architecture_000.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 2047620
+    },
+    {
+      "url": "/data/meshes/architecture_001.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1665312
+    },
+    {
+      "url": "/data/meshes/architecture_002.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1446652
+    },
+    {
+      "url": "/data/meshes/architecture_003.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1977268
+    },
+    {
+      "url": "/data/meshes/architecture_004.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 194440
+    },
+    {
+      "url": "/data/meshes/architecture_005.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 253260
+    },
+    {
+      "url": "/data/meshes/architecture_006.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 187364
+    },
+    {
+      "url": "/data/meshes/architecture_007.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 204520
+    },
+    {
+      "url": "/data/meshes/architecture_008.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 267548
+    },
+    {
+      "url": "/data/meshes/architecture_009.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 3495004
+    },
+    {
+      "url": "/data/meshes/architecture_010.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1486748
+    },
+    {
+      "url": "/data/meshes/architecture_011.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 2654116
+    },
+    {
+      "url": "/data/meshes/architecture_012.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1007940
+    },
+    {
+      "url": "/data/meshes/architecture_013.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1588968
+    },
+    {
+      "url": "/data/meshes/architecture_014.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1155416
+    },
+    {
+      "url": "/data/meshes/architecture_015.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 282632
+    },
+    {
+      "url": "/data/meshes/architecture_016.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 2883876
+    },
+    {
+      "url": "/data/meshes/architecture_017.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 3172988
+    },
+    {
+      "url": "/data/meshes/architecture_018.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1120788
+    },
+    {
+      "url": "/data/meshes/architecture_019.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 2819788
+    },
+    {
+      "url": "/data/meshes/architecture_020.glb",
+      "discipline": "Architecture",
+      "elementCount": 250,
+      "bytes": 1687884
+    },
+    {
+      "url": "/data/meshes/architecture_021.glb",
+      "discipline": "Architecture",
+      "elementCount": 190,
+      "bytes": 691188
+    }
+  ],
+  "errors": [],
+  "exportedElements": 5440
+}

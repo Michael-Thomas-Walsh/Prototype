@@ -1,0 +1,25 @@
+{
+  "project_id": "0f3cb45af1",
+  "model_id": "ee03c40d73",
+  "version_id": "cb0188d0ef",
+  "method": "transformed triangle surface SAT intersection; not volumetric solid collision",
+  "source_review_queue": "output\\structural_review_queue.csv",
+  "input_pairs": 375,
+  "matched_instance_ids": 502,
+  "requested_instance_ids": 502,
+  "mesh_loaded": 502,
+  "results": {
+    "NO_SURFACE_CROSSING_FOUND": 340,
+    "SURFACE_INTERSECTION_CANDIDATE": 35
+  },
+  "triangle_tests": 77570,
+  "tolerance_m": 0.0001,
+  "unknown_relation_id_30": "may mean semantic relationships incomplete",
+  "limitations": [
+    "Mesh-surface intersection is not proof of physical interference or design defect",
+    "No surface crossing is not proof that closed solids do not overlap; containment is untested",
+    "Coincident contact may be reported as intersection",
+    "Geometry transforms and coordinates should be visually checked against Revit",
+    "Mesh topology and face encoding must be validated for the installed SDK"
+  ]
+}

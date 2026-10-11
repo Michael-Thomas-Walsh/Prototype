@@ -1,0 +1,174 @@
+{
+  "total_objects": 23966,
+  "unique_nonempty_ids": 23966,
+  "objects_missing_ids": 0,
+  "duplicate_application_ids": {},
+  "resolved_host_edges": 1534,
+  "unresolved_host_references": [],
+  "dataset_groups": {
+    "Fusion BIM_revit": 9366,
+    "Snowdon Towers Sample Facades": 426,
+    "Snowdon Towers Sample Structural": 1498,
+    "Snowdon Towers Sample Plumbing": 6586,
+    "Snowdon Towers Sample HVAC": 2900,
+    "Snowdon Towers Sample Site": 115,
+    "Snowdon Towers Sample Electrical": 3075
+  },
+  "levels": {
+    "Unassigned": 6828,
+    "L1 - Block 35": 690,
+    "L1 - Block 43": 512,
+    "Parking": 1877,
+    "L3": 3282,
+    "L2": 2120,
+    "L4": 3534,
+    "L5": 1964,
+    "R2": 507,
+    "L1 - Block 37": 833,
+    "R3": 16,
+    "M1": 126,
+    "Green Roof Hardscape": 206,
+    "R1": 159,
+    "Parapet": 13,
+    "Block 37 - Parapet": 12,
+    "Parapet 2": 63,
+    "Block 39 - Parapet": 22,
+    "L3 - Block 39": 17,
+    "L2 - Block 39": 27,
+    "Block 43 - Parapet": 30,
+    "L1_43_High": 42,
+    "L1_35_Low": 23,
+    "Elevator Pit": 29,
+    "L1_37_Med": 42,
+    "Top of Footing": 70,
+    "L2 TOS": 86,
+    "M1 TOS": 25,
+    "L3 TOS": 202,
+    "R2 TOS": 179,
+    "L5 TOS": 215,
+    "L4 TOS": 214,
+    "WV_Cut at 20'": 1
+  },
+  "top_categories": [
+    [
+      "Fusion BIM_revit / Analytical Surfaces / none",
+      3041
+    ],
+    [
+      "Fusion BIM_revit / Curtain Wall Mullions / Rectangular Mullion",
+      1394
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L4 / Pipes / Pipe Types",
+      766
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L3 / Pipes / Pipe Types",
+      581
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / Parking / Pipes / Pipe Types",
+      516
+    ],
+    [
+      "Fusion BIM_revit / Curtain Panels / System Panel",
+      464
+    ],
+    [
+      "Snowdon Towers Sample Electrical / Electrical Circuits / none",
+      448
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L4 / Pipe Fittings / Elbow - Generic",
+      427
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L2 / Pipes / Pipe Types",
+      381
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L5 / Pipes / Pipe Types",
+      346
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / Parking / Pipe Fittings / Elbow - Generic",
+      320
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L3 / Ducts / Round Duct",
+      319
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L3 / Pipe Fittings / Elbow - Generic",
+      284
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L4 / Ducts / Round Duct",
+      269
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L3 / Duct Fittings / Round Elbow",
+      250
+    ],
+    [
+      "Snowdon Towers Sample Electrical / Parking / Conduits / Conduit with Fittings",
+      230
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L2 / Pipe Fittings / Elbow - Generic",
+      215
+    ],
+    [
+      "Fusion BIM_revit / L4 / Walls / Basic Wall",
+      210
+    ],
+    [
+      "Fusion BIM_revit / L3 / Walls / Basic Wall",
+      202
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L4 / Duct Fittings / Round Elbow",
+      201
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L5 / Pipe Fittings / Elbow - Generic",
+      184
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L5 / Ducts / Round Duct",
+      183
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L2 / Ducts / Round Duct",
+      174
+    ],
+    [
+      "Fusion BIM_revit / L5 / Walls / Basic Wall",
+      172
+    ],
+    [
+      "Snowdon Towers Sample Plumbing / L1 - Block 37 / Pipes / Pipe Types",
+      160
+    ],
+    [
+      "Fusion BIM_revit / Curtain Panels / CP_Solar Panel",
+      152
+    ],
+    [
+      "Snowdon Towers Sample HVAC / Duct Systems / Duct System",
+      148
+    ],
+    [
+      "Snowdon Towers Sample Electrical / Parking / Conduit Fittings / Conduit Elbow - Steel",
+      146
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L5 / Duct Fittings / Round Elbow",
+      143
+    ],
+    [
+      "Snowdon Towers Sample HVAC / L2 / Duct Fittings / Round Elbow",
+      136
+    ]
+  ]
+}
